@@ -1,0 +1,24 @@
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\bin\Debug\LELE.exe
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\bin\Debug\LELE.pdb
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.csprojResolveAssemblyReference.cache
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.frmMain.resources
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.Properties.Resources.resources
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.csproj.GenerateResource.Cache
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.exe.licenses
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.exe
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.pdb
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.frmMatrix.resources
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.frmpreview.resources
+D:\TN94\CS xử lý ảnh số\cuối kì\LELE\LELE\obj\Debug\LELE.frmGrayMatrix.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.exe
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.pdb
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\bin\Debug\LELE.exe
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\bin\Debug\LELE.pdb
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.csprojResolveAssemblyReference.cache
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.frmMain.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.frmGrayMatrix.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.frmMatrix.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.frmpreview.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.Properties.Resources.resources
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.csproj.GenerateResource.Cache
+D:\_TN94\Cơ sở xử lý ảnh số\Nhóm 02 - Đề tài 12\LELE\LELE\obj\Debug\LELE.exe.licenses
